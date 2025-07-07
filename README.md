@@ -2,7 +2,7 @@
 
 The first project in the Roblox, showing the text2embedding model and the text classifier. As a bonus, there is the use of GPT-like models via the API.
 
-**📺 [Watch the Video on YouTube](https://youtu.be/I8dnvAJTnaA) (subtitles)!**
+**📺 [Watch the Video on YouTube!](https://youtu.be/I8dnvAJTnaA)**
 
 ---
 
